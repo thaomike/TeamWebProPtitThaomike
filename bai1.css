@@ -1,0 +1,37 @@
+@charset "utf-8";
+body {
+    background-image: url('./bgSingle.jpg');
+}
+#divhead {
+    /* margin-top: 0em; */
+    /* background-color: darkslategray; */
+    font-size: 50px;
+    color: rgb(65, 52, 52);
+    font-size: 100px;
+    width: fit-content;
+    margin: auto;
+}
+
+#table1 {
+    /* float: left; */
+    /* left: 50%; */
+    /* position: relative; */
+    width: 1000px;
+    /* left: 25%; */
+    margin: auto;
+    height: 200px;
+}
+
+img {
+    width: 200px; 
+    height: 200px;
+    border-radius: 200px;
+    vertical-align: middle;
+    border: 100px;
+    border-color: rgb(17, 6, 3);
+}
+
+
+section {
+    display: inline-block;
+}
